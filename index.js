@@ -1,1 +1,2 @@
-console.log("Olá, mundo");
+const prompt = require('prompt-sync')();
+
