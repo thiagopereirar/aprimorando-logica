@@ -7,7 +7,7 @@ O objetivo do projeto é aplicar estruturas de controle e laços de repetição 
 
 - **Seleção de Personagem:** Menu interativo utilizando Arrays para listar os Campeões disponíveis.
 - **Validação de Dados:** Implementação de loop `while` para garantir que o usuário insira uma opção válida, impedindo erros de execução.
-- **Classificação de Nível:** Lógica condicional (`if/else`) para definir o nível do Campeão baseada nas faixas de XP.
+- **Classificação de Nível:** Lógica condicional (`if`) dentro da função para definir o nível do Campeão baseada nas faixas de XP.
 
 ## Tecnologias
 
